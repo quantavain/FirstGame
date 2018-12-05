@@ -54,9 +54,8 @@ if(hp <= 0)
 	/// @DnDHash : 5646CB7D
 	/// @DnDParent : 05CD9AF3
 	/// @DnDArgument : "sound" "smd_death"
-	/// @DnDArgument : "pitch" ""
 	/// @DnDSaveInfo : "sound" "bd754c0a-db9b-4b4e-a953-96dd1cf60353"
-	audio_sound_pitch(smd_death, );
+	audio_sound_pitch(smd_death, 1);
 
 	/// @DnDAction : YoYo Games.Audio.Play_Audio
 	/// @DnDVersion : 1
