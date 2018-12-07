@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0ad38c80-cf88-4dd8-9131-cf4a0a234904",
+            "Value": {
+                "id": "58a991b0-3d11-4d80-8d52-ce8159ed5ae3",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d93be6d-69c1-44fc-8389-cf64b294a101",
             "Value": {
                 "id": "21a3daf9-a622-4697-bfba-f406a7758e81",
@@ -139,6 +147,14 @@
             "Value": {
                 "id": "770e1d0f-1379-4e8f-9511-73198d40ef2f",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c127396-2ec7-4d05-8261-fdda53a0c6fc",
+            "Value": {
+                "id": "723f65f4-9cfb-467b-91a6-3c9da563bc3d",
+                "resourcePath": "objects\\obj_ememyspawn\\obj_ememyspawn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -267,6 +283,14 @@
             "Value": {
                 "id": "7301ef87-1a2c-46be-842d-e1c9f008eeea",
                 "resourcePath": "sprites\\spr_darktile\\spr_darktile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d7666610-86f8-49b3-bb3d-3179e3c43a82",
+            "Value": {
+                "id": "9ed52ce5-9eb7-4ba9-8d5f-8405d5e1443d",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
                 "resourceType": "GMSprite"
             }
         },
